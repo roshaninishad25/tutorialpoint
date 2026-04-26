@@ -1,4 +1,4 @@
-import CourseSchema from "../CourseSchema";
+import CourseSchema from "../../../CourseSchema";
 
 export default function BlogPost({ params }: { params: { slug: string } }) {
   // Mock content fetching

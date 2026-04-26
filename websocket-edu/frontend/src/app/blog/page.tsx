@@ -1,3 +1,4 @@
+import CourseSchema from '../../../CourseSchema';
 import Link from 'next/link';
 
 // Mocking 20 unique posts for the blog
